@@ -12,3 +12,10 @@ The project uses text mining techniques to preprocess and clean the tweets, whic
 - Customizing stopwords for better fitting social media data.
 - Applying clustering techniques to detect thematic communities on Twitter.
 - Using algorithms like KMeans, DBSCAN, and Agglomerative Clustering to segment users.
+
+## Data
+
+The data used for this project consists of a large collection of tweets gathered from the Twitter platform. The dataset includes user posts along with metadata such as the text content, user IDs, and timestamps. This data is essential for analyzing and clustering user communities based on their shared interests or behaviors.
+
+You can access the dataset used for this project through the following link:  
+[Link to Data](https://www.kaggle.com/datasets/kazanova/sentiment140)
